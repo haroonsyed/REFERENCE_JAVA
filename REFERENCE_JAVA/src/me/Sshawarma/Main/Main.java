@@ -2,6 +2,7 @@ package me.Sshawarma.Main;
 
 import javax.swing.JFrame;
 
+import DesignPatterns.ObserverPattern;
 import DesignPatterns.StrategyPattern;
 import me.Sshawarma.IM_SERVER.Server;
 
@@ -22,7 +23,8 @@ public class Main {
 //		server.start();
 		
 		//Design Patterns
-		StrategyPattern sp = new StrategyPattern();
+		//StrategyPattern sP = new StrategyPattern();
+		ObserverPattern oP = new ObserverPattern();
 		
 	}
 	
