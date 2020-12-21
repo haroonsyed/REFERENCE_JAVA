@@ -1,4 +1,4 @@
-package DesignPatterns;
+package me.Sshawarma.DesignPatterns;
 
 import java.util.LinkedList;
 import java.util.List;

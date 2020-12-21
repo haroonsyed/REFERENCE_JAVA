@@ -1,4 +1,4 @@
-package DesignPatterns;
+package me.Sshawarma.DesignPatterns;
 
 //Here we will separate the fly method of ducks into implementations of an internface and then instantiate ducks with those attributes
 
@@ -32,25 +32,10 @@ class Duck{
 	
 	private IFly flyType;
 	
-	public enum SPECIE {
-		WILD, CITY, RUBBER
-	}
-	
-	public Duck(SPECIE specie) {
-		switch(specie) {
-			
-			//Here just select the algorithms you want to assign to each type of DUCK. More flexible than horizontal code between species.
-			case WILD:
-			case CITY:
-				this.flyType = new SimpleFly();
-				break;
-			case RUBBER:
-				this.flyType = new NoFly();
-				break;
-			default:
-				//If a new enum is defined but no definition yet, this stops code from breaking
-				this.flyType = new SimpleFly();
-		}
+	public Duck(IFly flyType) {
+
+		this.flyType = flyType;
+
 	}
 	
 	public void fly() {
@@ -63,8 +48,8 @@ public class StrategyPattern {
 	
 	public StrategyPattern() {
 		
-		Duck rubberDuck = new Duck(Duck.SPECIE.RUBBER);
-		Duck normalDuck = new Duck(Duck.SPECIE.WILD);
+		Duck rubberDuck = new Duck(new NoFly());
+		Duck normalDuck = new Duck(new SimpleFly());
 		
 		rubberDuck.fly();
 		normalDuck.fly();
