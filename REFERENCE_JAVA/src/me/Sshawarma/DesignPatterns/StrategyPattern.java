@@ -1,5 +1,7 @@
 package me.Sshawarma.DesignPatterns;
 
+//Strategy pattern aims to change functionality during runtime. (Swap out strategy)
+
 //Here we will separate the fly method of ducks into implementations of an internface and then instantiate ducks with those attributes
 
 interface IFly{

@@ -1,5 +1,6 @@
 package me.Sshawarma.Main;
 
+import me.Sshawarma.DesignPatterns.DecoratorPattern;
 import me.Sshawarma.DesignPatterns.ObserverPattern;
 
 public class Main {
@@ -20,7 +21,8 @@ public class Main {
 		
 		//Design Patterns
 		//StrategyPattern sP = new StrategyPattern();
-		ObserverPattern oP = new ObserverPattern();
+		//ObserverPattern oP = new ObserverPattern();
+		DecoratorPattern dP = new DecoratorPattern();
 		
 	}
 	

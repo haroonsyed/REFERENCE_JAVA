@@ -3,6 +3,8 @@ package me.Sshawarma.DesignPatterns;
 import java.util.LinkedList;
 import java.util.List;
 
+//Observer pattern aims for a subject to inform its observers of changes, instead of observers polling for changes.
+
 //Subject, also known as the observable
 interface ISubject {
 	
