@@ -1,7 +1,9 @@
 package me.Sshawarma.Main;
 
 import me.Sshawarma.DesignPatterns.DecoratorPattern;
+import me.Sshawarma.DesignPatterns.FactoryPattern;
 import me.Sshawarma.DesignPatterns.ObserverPattern;
+import me.Sshawarma.DesignPatterns.SingletonPattern;
 
 public class Main {
 	
@@ -20,10 +22,12 @@ public class Main {
 //		server.start();
 		
 		//Design Patterns
-		//StrategyPattern sP = new StrategyPattern();
-		//ObserverPattern oP = new ObserverPattern();
-		DecoratorPattern dP = new DecoratorPattern();
-		
+		//StrategyPattern strategyPattern = new StrategyPattern();
+		//ObserverPattern observerPattern = new ObserverPattern();
+		//DecoratorPattern decoratorPattern = new DecoratorPattern();
+		//FactoryPattern factoryPattern = new FactoryPattern();
+		SingletonPattern singletonPattern = new SingletonPattern();
+
 	}
 	
 }
