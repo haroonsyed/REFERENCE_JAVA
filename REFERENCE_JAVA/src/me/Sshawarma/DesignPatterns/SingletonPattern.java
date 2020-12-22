@@ -9,6 +9,8 @@ class Singleton {
     //Must be private so this class cannot be instantiated elsewhere!
     private Singleton() {}
 
+    //For multithreading add "synchronized" keyword to method force both threads to go one at a time (SLOW)
+    //Or use synchronized(Singleton.class) inside the method before creating object. (FAST)
     public static Singleton getInstance() {
 
         if(instance == null){
