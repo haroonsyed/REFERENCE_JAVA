@@ -1,9 +1,6 @@
 package me.Sshawarma.Main;
 
-import me.Sshawarma.DesignPatterns.DecoratorPattern;
-import me.Sshawarma.DesignPatterns.FactoryPattern;
-import me.Sshawarma.DesignPatterns.ObserverPattern;
-import me.Sshawarma.DesignPatterns.SingletonPattern;
+import me.Sshawarma.DesignPatterns.*;
 
 public class Main {
 	
@@ -26,7 +23,8 @@ public class Main {
 		//ObserverPattern observerPattern = new ObserverPattern();
 		//DecoratorPattern decoratorPattern = new DecoratorPattern();
 		//FactoryPattern factoryPattern = new FactoryPattern();
-		SingletonPattern singletonPattern = new SingletonPattern();
+		//SingletonPattern singletonPattern = new SingletonPattern();
+		CommandPattern commandPattern = new CommandPattern();
 
 	}
 	
