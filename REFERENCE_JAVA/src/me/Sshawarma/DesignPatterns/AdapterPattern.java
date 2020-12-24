@@ -101,7 +101,7 @@ public class AdapterPattern {
         vehicleEnemy.fireWeapon();
 
         //Create Adaptee
-        System.out.println("Adaptee output without adapter, but using specific method:");
+        System.out.println("\nAdaptee output without adapter, but using specific method:");
         IRobotEnemy robotEnemy = new SimpleRobot();
         //We have to call the method directly unless we use adapter...
         robotEnemy.smashWithLimbs();
@@ -110,7 +110,7 @@ public class AdapterPattern {
         IVehicleEnemy adapter = new VehicleToRobotAdapter(robotEnemy);
 
         //Now you can call methods on the adapter as if it were a VehicleEnemy.
-        System.out.println("Using an adapter we can treat the robot as if it were a vehicle:");
+        System.out.println("\nUsing an adapter we can treat the robot as if it were a vehicle:");
         adapter.fireWeapon();
 
     }
