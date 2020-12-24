@@ -1,8 +1,8 @@
 # REFERENCE_JAVA
 
-##A compilation and future reference of concepts I am learning through winter 2020/21
+## A compilation and future reference of concepts I am learning through winter 2020/21
 
-######List of things learned so far:
+###### List of things learned so far:
 1. Java Sockets
    - Built and Instant Messager App where multiple clients connect to a server
    - I already have knowledge of port forwarding, setting up servers, DNS, SSL so actually bringing the app online would be simple.
