@@ -25,7 +25,8 @@ public class Main {
 		//FactoryPattern factoryPattern = new FactoryPattern();
 		//SingletonPattern singletonPattern = new SingletonPattern();
 		//CommandPattern commandPattern = new CommandPattern();
-		AdapterPattern adapterPattern = new AdapterPattern();
+		//AdapterPattern adapterPattern = new AdapterPattern();
+		FacadePattern facadePattern = new FacadePattern();
 
 	}
 	
