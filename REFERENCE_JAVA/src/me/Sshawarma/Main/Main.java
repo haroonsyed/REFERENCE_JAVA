@@ -27,7 +27,8 @@ public class Main {
 		//CommandPattern commandPattern = new CommandPattern();
 		//AdapterPattern adapterPattern = new AdapterPattern();
 		//FacadePattern facadePattern = new FacadePattern();
-		ProxyPattern proxyPattern = new ProxyPattern();
+		//ProxyPattern proxyPattern = new ProxyPattern();
+		BridgePattern bridgePattern = new BridgePattern();
 
 	}
 	
