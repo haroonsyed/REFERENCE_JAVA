@@ -33,7 +33,8 @@ public class Main {
 		//FacadePattern facadePattern = new FacadePattern();
 		//ProxyPattern proxyPattern = new ProxyPattern();
 		//BridgePattern bridgePattern = new BridgePattern();
-		BuilderPattern builderPattern = new BuilderPattern();
+		//BuilderPattern builderPattern = new BuilderPattern();
+		PrototypePattern prototypePattern = new PrototypePattern();
 
 	}
 	
