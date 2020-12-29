@@ -34,7 +34,8 @@ public class Main {
 		//ProxyPattern proxyPattern = new ProxyPattern();
 		//BridgePattern bridgePattern = new BridgePattern();
 		//BuilderPattern builderPattern = new BuilderPattern();
-		PrototypePattern prototypePattern = new PrototypePattern();
+		//PrototypePattern prototypePattern = new PrototypePattern();
+		TemplateMethodPattern templateMethodPattern = new TemplateMethodPattern();
 
 	}
 	
