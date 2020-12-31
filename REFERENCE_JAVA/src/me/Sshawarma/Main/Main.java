@@ -35,7 +35,8 @@ public class Main {
 		//BridgePattern bridgePattern = new BridgePattern();
 		//BuilderPattern builderPattern = new BuilderPattern();
 		//PrototypePattern prototypePattern = new PrototypePattern();
-		TemplateMethodPattern templateMethodPattern = new TemplateMethodPattern();
+		//TemplateMethodPattern templateMethodPattern = new TemplateMethodPattern();
+		IteratorPattern iteratorPattern = new IteratorPattern();
 
 	}
 	
