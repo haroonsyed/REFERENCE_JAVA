@@ -40,7 +40,7 @@ class Project implements TodoComponent {
         this.todos = todos;
     }
 
-
+    //Here you could put an add(TodoComponent) method instead of using a setter for the list
 
     @Override
     public String getText() {
