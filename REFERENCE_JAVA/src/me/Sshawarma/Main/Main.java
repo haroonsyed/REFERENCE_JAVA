@@ -37,7 +37,8 @@ public class Main {
 		//PrototypePattern prototypePattern = new PrototypePattern();
 		//TemplateMethodPattern templateMethodPattern = new TemplateMethodPattern();
 		//IteratorPattern iteratorPattern = new IteratorPattern();
-		CompositePattern compositePattern = new CompositePattern();
+		//CompositePattern compositePattern = new CompositePattern();
+		StatePattern statePattern = new StatePattern();
 
 	}
 	
