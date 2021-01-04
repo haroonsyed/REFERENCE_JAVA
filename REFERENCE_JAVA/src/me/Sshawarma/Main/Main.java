@@ -40,7 +40,8 @@ public class Main {
 		//CompositePattern compositePattern = new CompositePattern();
 		//StatePattern statePattern = new StatePattern();
 		//NullObjectPattern nullObjectPattern = new NullObjectPattern();
-		FlyWeightPattern flyWeightPattern = new FlyWeightPattern();
+		//FlyWeightPattern flyWeightPattern = new FlyWeightPattern();
+		ChainOfResponsibilityPattern chainOfResponsibilityPattern = new ChainOfResponsibilityPattern();
 
 	}
 	
