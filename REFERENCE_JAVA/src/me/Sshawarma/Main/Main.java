@@ -39,7 +39,8 @@ public class Main {
 		//IteratorPattern iteratorPattern = new IteratorPattern();
 		//CompositePattern compositePattern = new CompositePattern();
 		//StatePattern statePattern = new StatePattern();
-		NullObjectPattern nullObjectPattern = new NullObjectPattern();
+		//NullObjectPattern nullObjectPattern = new NullObjectPattern();
+		FlyWeightPattern flyWeightPattern = new FlyWeightPattern();
 
 	}
 	
