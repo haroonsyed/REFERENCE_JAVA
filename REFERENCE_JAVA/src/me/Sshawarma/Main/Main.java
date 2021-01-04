@@ -38,7 +38,8 @@ public class Main {
 		//TemplateMethodPattern templateMethodPattern = new TemplateMethodPattern();
 		//IteratorPattern iteratorPattern = new IteratorPattern();
 		//CompositePattern compositePattern = new CompositePattern();
-		StatePattern statePattern = new StatePattern();
+		//StatePattern statePattern = new StatePattern();
+		NullObjectPattern nullObjectPattern = new NullObjectPattern();
 
 	}
 	
