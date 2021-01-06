@@ -41,7 +41,8 @@ public class Main {
 		//StatePattern statePattern = new StatePattern();
 		//NullObjectPattern nullObjectPattern = new NullObjectPattern();
 		//FlyWeightPattern flyWeightPattern = new FlyWeightPattern();
-		ChainOfResponsibilityPattern chainOfResponsibilityPattern = new ChainOfResponsibilityPattern();
+		//ChainOfResponsibilityPattern chainOfResponsibilityPattern = new ChainOfResponsibilityPattern();
+		MediatorPattern mediatorPattern = new MediatorPattern();
 
 	}
 	
