@@ -43,7 +43,8 @@ public class Main {
 		//FlyWeightPattern flyWeightPattern = new FlyWeightPattern();
 		//ChainOfResponsibilityPattern chainOfResponsibilityPattern = new ChainOfResponsibilityPattern();
 		//MediatorPattern mediatorPattern = new MediatorPattern();
-		MementoPattern mementoPattern = new MementoPattern();
+		//MementoPattern mementoPattern = new MementoPattern();
+		VisitorPattern visitorPattern = new VisitorPattern();
 
 	}
 	
