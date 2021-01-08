@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Behavioral;
 
 //Create a group of subclasses with similar methods.
 //Use an abstract class that tells what general methods might be performed

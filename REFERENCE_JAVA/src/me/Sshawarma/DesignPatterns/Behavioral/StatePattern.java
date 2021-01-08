@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Behavioral;
 
 //Uses the same concept as statemachines to better layout all the possible combinations of a system.
 //Decisions are based on the current state the program is in.

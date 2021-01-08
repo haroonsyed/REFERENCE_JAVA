@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Structural;
 
 //Decouples abstraction from implementation so the two can vary independently.
 //Add functionality while separating major differences using interfaces/classes

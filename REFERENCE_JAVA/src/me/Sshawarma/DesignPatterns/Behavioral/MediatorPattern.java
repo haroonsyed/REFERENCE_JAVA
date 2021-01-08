@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Behavioral;
 
 //Handles communication between related objects (colleagues). Communication is handled with a mediator object
 //which  loose coupling.

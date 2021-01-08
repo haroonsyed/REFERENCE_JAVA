@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Behavioral;
 
 //Add methods to differing classes with minimal change in said classes using overloading
 //The methods can vary in implementation between said classes.

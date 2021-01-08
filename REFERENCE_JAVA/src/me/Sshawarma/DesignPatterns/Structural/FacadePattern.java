@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Structural;
 
 //Self explanatory, it performs complex actions between many classes in simplified methods
 //In this example, we perform a bank extraction

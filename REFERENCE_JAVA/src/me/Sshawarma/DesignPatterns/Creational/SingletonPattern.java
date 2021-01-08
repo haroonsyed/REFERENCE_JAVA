@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Creational;
 
 //Used when we want only one instance of a class to exist.
 //Provides a global point of access to the singleton (MOST TIMES NOT A GOOD IDEA!)

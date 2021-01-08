@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Structural;
 
 //Treat each sub tree of a hierarchical structure as if it were an individual component and
 //be able to uniformly call operations on those sub components. Similar to what component based frameworks

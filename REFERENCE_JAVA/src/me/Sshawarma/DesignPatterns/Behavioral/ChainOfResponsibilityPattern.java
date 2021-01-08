@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Behavioral;
 
 //Allow objects to handle executions of themselves by passing data to the next implementation if they cannot handle
 //the request.

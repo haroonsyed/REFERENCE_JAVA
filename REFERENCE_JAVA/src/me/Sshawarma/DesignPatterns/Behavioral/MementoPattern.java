@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Behavioral;
 
 //Allows for easy storing and retrieval of history state of an object
 //The memento is what you want to store the state of

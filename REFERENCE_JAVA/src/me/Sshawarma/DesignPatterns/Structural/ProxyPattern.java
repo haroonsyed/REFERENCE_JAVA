@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Structural;
 
 //Proxy acts as a middleman from application to another resource.
 /*

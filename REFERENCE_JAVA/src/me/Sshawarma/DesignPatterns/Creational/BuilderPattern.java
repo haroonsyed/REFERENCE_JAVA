@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Creational;
 
 //Sequentially build an object from parts. Different from factory in that factory refers to families of objects and
 //factory build objects in one step. In this example we build a robot using parts as specified in builder pattern.

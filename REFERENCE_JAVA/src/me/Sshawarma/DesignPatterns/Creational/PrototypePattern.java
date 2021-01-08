@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Creational;
 
 //Prototype allows us to clone an object without using the new keyword
 //Useful when initializing an object is expensive or you want to keep the configuration of an object as default.

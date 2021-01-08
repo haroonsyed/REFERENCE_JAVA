@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Structural;
 
 //Decorators augment functionality during runtime. Multiple addons keep compounding.
 

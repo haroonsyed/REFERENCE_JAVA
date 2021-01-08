@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Behavioral;
 
 //The goal of the command pattern is to encapsulate a request/command
 //The invoker invokes a command to the receiver, which decouples the two

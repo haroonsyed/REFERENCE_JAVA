@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Structural;
 
 //Shares objects to reduce memory usage (not necessarily time!)
 //Useful when instantiating the same/similar object many many times

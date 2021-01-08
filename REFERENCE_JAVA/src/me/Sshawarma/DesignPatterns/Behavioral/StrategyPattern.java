@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Behavioral;
 
 //Strategy pattern aims to change functionality during runtime. (Swap out strategy)
 

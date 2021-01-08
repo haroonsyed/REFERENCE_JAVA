@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Creational;
 
 //Encapsulates Instantiation and allows switching of the instantiation method.
 //The client is not exposed to object creation

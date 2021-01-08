@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Behavioral;
 
 //Basically uses an interface to abstract the iteration process between many different data structures/iteration behaviors.
 //Pretty intuitive from the iterator interface found in c++/java

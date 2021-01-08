@@ -1,4 +1,4 @@
-package me.Sshawarma.DesignPatterns;
+package me.Sshawarma.DesignPatterns.Structural;
 
 //Makes two interfaces compatible by mapping functions with shared context
 //In this example we create an adapter from EnemyAttacker which drives to a robot EnemyAttacker which walks
