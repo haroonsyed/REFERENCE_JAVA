@@ -44,7 +44,8 @@ public class Main {
 		//ChainOfResponsibilityPattern chainOfResponsibilityPattern = new ChainOfResponsibilityPattern();
 		//MediatorPattern mediatorPattern = new MediatorPattern();
 		//MementoPattern mementoPattern = new MementoPattern();
-		VisitorPattern visitorPattern = new VisitorPattern();
+		//VisitorPattern visitorPattern = new VisitorPattern();
+		MVCPattern mvcPattern = new MVCPattern();
 
 	}
 	
