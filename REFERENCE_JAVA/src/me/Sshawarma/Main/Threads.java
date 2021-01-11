@@ -21,7 +21,7 @@ public class Threads {
 		
 		//Doing this, however, is incorrect and will simply run sequentially, since no thread is created.
 		//Start is necessary because it initiates a new thread and allows the main thread to continue.
-		//Here all you have done is told the main thread to do into run, which does not run async.
+		//Here all you have done is told the main thread to do into run, which does not run synch.
 		//However, this may be useful for debugging purposes.
 //		ThreadObj t1 = new ThreadObj("One");
 //		ThreadObj t2 = new ThreadObj("Two");
